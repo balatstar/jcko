@@ -39,3 +39,23 @@
 .img {
   width: 100%;
 }
+
+.content-section{
+  padding: 20px;
+}
+
+.content-section h2{
+  text-align: center;
+}
+
+.content-section ul{
+  margin: 20px 100px;
+}
+
+.content-section ul li{
+  margin: 10px;
+}
+
+.content-section blockquote{
+  margin: 20px 100px;
+}
